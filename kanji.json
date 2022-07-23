@@ -1,0 +1,18 @@
+{
+  "一": {
+    "reading": ["いち"],
+    "meaning": ["one"]
+  },
+  "二": {
+    "reading": ["に"],
+    "meaning": ["two"]
+  },
+  "四": {
+    "reading": ["よん", "し"],
+    "meaning": ["four"]
+  },
+  "内": {
+    "reading": ["ない", "うち"],
+    "meaning": ["inside", "within"]
+  }
+}
